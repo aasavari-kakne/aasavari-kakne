@@ -1,7 +1,8 @@
-<!---
-Hello! Thank you for visiting my github page. I am Aasavari, a M.S. in Applied Math candidate at Stanford with specialization in Artificial Intelligence. 
+Hello, thank you for visiting my github page!
+
+I am Aasavari, a M.S. in Applied Math candidate at Stanford with specialization in Artificial Intelligence. 
 Prior to Stanford, I completed B.Tech in Math and Computing at IIT Delhi where I excelled in Statistics. 
---->
+
 
 At Stanford, I studied - cs224n (NLP), cs224u (NLU), cs231n (CV), cs224w (Graph Neural Networks) and cs229 (ML). 
 During my research projects and ML internships, I worked on -
